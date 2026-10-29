@@ -1,197 +1,120 @@
+
 <div align="center">
 
-# `> SYSTEM ONLINE`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:102A43,100:6C2BD9&height=190&section=header&text=JÔNATAS%20SILVA&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=CIÊNCIA%20DA%20COMPUTAÇÃO%20%7C%20DESENVOLVIMENTO&descAlignY=60&descSize=14&descColor=E2E8F0" width="100%" alt="Banner de Jônatas Silva" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071B2E,100:6C2BD9&height=180&section=header&text=JÔNATAS%20SILVA&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=COMPUTER%20SCIENCE%20STUDENT&descAlignY=60&descSize=16&descColor=B56CFF"/>
+# Jônatas Silva
 
-### `◈ INITIALIZING PROFILE...`
+### Estudante de Ciência da Computação | Desenvolvedor em formação
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   USER ............. JÔNATAS SILVA                          ║
-║   ROLE ............. COMPUTER SCIENCE STUDENT               ║
-║   STATUS ........... LEARNING                               ║
-║   SYSTEM ........... ONLINE                                 ║
-║   LOCATION ......... BRAZIL 🇧🇷                              ║
-║                                                              ║
-║   > Building knowledge                                      ║
-║   > Building projects                                       ║
-║   > Building the future                                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+*Transformando lógica em soluções e conhecimento em projetos.*
 
-### `"Lógica é o começo. Código é a evolução."`
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/JnatasSilva09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-coutinho-dev/)
 
 </div>
 
 ---
 
-## `01 // SOBRE MIM`
+## 👨‍💻 Sobre mim
 
-> 👋 Olá! Eu sou **Jônatas Silva**.
+Sou estudante de **Ciência da Computação** e tenho interesse em programação, desenvolvimento de sistemas, lógica computacional e tecnologia.
 
-🎓 Estudante de **Ciência da Computação**
-💻 Desenvolvendo minha base em programação
-🧠 Interessado em lógica, algoritmos e tecnologia
-🚀 Aprendendo através da prática e construção de projetos
+Busco transformar o conhecimento adquirido nos estudos em projetos práticos, evoluindo na organização do código, na resolução de problemas e na construção de aplicações úteis.
 
-Estou no início da minha jornada na tecnologia e atualmente estou focado em construir uma base sólida em **programação, lógica e resolução de problemas**.
-
-Meu objetivo é transformar cada conhecimento adquirido em algo que possa ser colocado em prática.
+- 🎓 Ciência da Computação.
+- 💻 Desenvolvimento de projetos pessoais e acadêmicos.
+- 🧠 Fundamentos de programação e lógica computacional.
+- 🚀 Evolução contínua por meio da prática.
+- 🔍 Interesse em desenvolvimento de software e tecnologia.
 
 ```text
-LEARN → BUILD → DEBUG → IMPROVE → REPEAT
+LEARN → BUILD → TEST → DEBUG → IMPROVE
 ```
 
 ---
 
-## `02 // TECH STACK`
-
-### `PROGRAMMING`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs" />
-</p>
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-`C` · `C#` · `VISUALG`
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,dotnet,sqlite,git,github,vscode,visualstudio" alt="Tecnologias e ferramentas de desenvolvimento" />
 
 </div>
 
-### `TOOLS`
+**Linguagens e estudos**
+- C — fundamentos de programação estruturada.
+- C# e .NET — desenvolvimento de aplicações desktop.
+- Java — projeto de validação e geração de CPF/CNPJ.
+- Python — estudos de lógica e programação.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
+**Ferramentas e tecnologias**
+- Git e GitHub — versionamento e organização de projetos.
+- Windows Forms — interfaces para aplicações desktop.
+- SQLite — banco de dados utilizado no projeto de controle financeiro.
 
-<div align="center">
-
-`Git` · `GitHub` · `VS Code` · `Visual Studio`
-
-</div>
-
----
-
-## `03 // CURRENTLY LEARNING`
-
-```text
-C                   ████████████████████░░░░   FUNDAMENTOS
-LÓGICA              ██████████████████░░░░░░   PRÁTICA
-ALGORITMOS          █████████████████░░░░░░░   PRÁTICA
-C#                  ██████████████░░░░░░░░░░   ESTUDANDO
-ESTRUTURAS DE DADOS ████████████░░░░░░░░░░░░   PRÓXIMO
-.NET                ██████████░░░░░░░░░░░░░░   PRÓXIMO
-BANCO DE DADOS      ███████░░░░░░░░░░░░░░░░░   FUTURO
-```
-
-> `SYSTEM STATUS: CONSTANTLY LEARNING`
+> As tecnologias representam ferramentas presentes nos meus estudos e projetos. Meu nível de domínio continua evoluindo com a prática.
 
 ---
 
-## `04 // FEATURED PROJECTS`
+## 🚀 Projetos em destaque
+
+Projetos selecionados para demonstrar minha evolução em desenvolvimento de sistemas, aplicações desktop, programação estruturada e segurança digital.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 Pedra, Papel e Tesoura
+### 📦 Controle de Estoque
 
-Meu primeiro projeto de jogo em C.
+Sistema desktop para gerenciamento e controle de estoque.
 
-**Praticando:**
+**Tecnologias:** C#, .NET e Windows Forms.
 
-- Variáveis
-- Condicionais
-- Entrada e saída
-- Lógica de programação
+**Foco:** desenvolvimento de aplicações desktop e gerenciamento de estoque.
 
-`C`
+[![Repositório](https://img.shields.io/badge/VER%20PROJETO-18181B?style=for-the-badge&logo=github)](https://github.com/JnatasSilva09/ControleEstoque.Desktop)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 💰 Controle Financeiro
 
-### 🗳️ Sistema de Votação
+Sistema desktop de controle financeiro pessoal.
 
-Sistema de enquete desenvolvido para praticar:
+**Tecnologias:** C#, Windows Forms e SQLite.
 
-- Vetores
-- Repetição
-- Validação de dados
-- Cálculo de percentuais
+**Recursos descritos no projeto:** gráficos interativos e exportação para Excel.
 
-`C`
+[![Repositório](https://img.shields.io/badge/VER%20PROJETO-18181B?style=for-the-badge&logo=github)](https://github.com/JnatasSilva09/controle-financeiro-cs)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧮 Calculadora
+### 🛡️ CyberShield
 
-Projeto desenvolvido para praticar:
+Projeto web relacionado à cibersegurança.
 
-- Operadores
-- Variáveis
-- Entrada de dados
-- Estruturas condicionais
+**Destaque:** site com formulário de feedback funcional integrado ao Formspree.
 
-`C`
+**Foco:** desenvolvimento web e apresentação de conteúdo sobre segurança digital.
 
-</td>
+[![Repositório](https://img.shields.io/badge/VER%20PROJETO-18181B?style=for-the-badge&logo=github)](https://github.com/JnatasSilva09/cybershield)
 
-<td width="50%">
-
-### 🧠 Exercícios de Lógica
-
-Coleção de exercícios realizados durante os estudos.
-
-**Conteúdos:**
-
-- Algoritmos
-- Lógica
-- Fluxogramas
-- Visualg
-
-`C` `VISUALG`
+[🌐 Acessar site](https://jnatassilva09.github.io/cybershield/)
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%">
+### 🔐 Validador de CPF/CNPJ
 
-### 🔷 Projetos C#
+Projeto em Java para validação e geração de documentos CPF/CNPJ.
 
-Primeiros projetos utilizando C#.
+**Foco:** lógica de programação, validações e implementação de regras.
 
-**Estudando:**
-
-- C#
-- .NET
-- Estruturas de programação
-- Organização de código
-
-`C#` `.NET`
-
-</td>
-
-<td width="50%">
-
-### 🚀 Próximos Projetos
-
-> `NEW PROJECT DETECTED`
-
-```text
-████████████░░░░░░░░
-      BUILDING...
-```
-
-Novos projetos serão adicionados conforme minha evolução.
+[![Repositório](https://img.shields.io/badge/VER%20PROJETO-18181B?style=for-the-badge&logo=github)](https://github.com/JnatasSilva09/validador-cpf-cnpj-java)
 
 </td>
 </tr>
@@ -199,155 +122,98 @@ Novos projetos serão adicionados conforme minha evolução.
 
 ---
 
-## `05 // ROADMAP`
+## 📚 Outros projetos
 
-### `2026`
-
-```text
-[x] Iniciar Ciência da Computação
-[x] Aprender fundamentos de programação
-[x] Começar com C
-[x] Praticar lógica de programação
-[x] Criar primeiros projetos
-[x] Começar com Git e GitHub
-
-[ ] Evoluir em C#
-[ ] Aprender .NET
-[ ] Estruturas de dados
-[ ] Banco de dados
-[ ] APIs
-[ ] Projetos maiores
-```
-
-### `LONG TERM`
-
-```text
-             ┌──────────────┐
-             │    C / C#    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │  ALGORITMOS  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   DATA       │
-             │  STRUCTURES  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     .NET     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │  DATABASES   │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     APIs     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   SOFTWARE   │
-             │ DEVELOPMENT  │
-             └──────┬───────┘
-                    ↓
-                   🚀
-```
+| Projeto | Descrição | Linguagem |
+|---|---|---|
+| [Biblioteca](https://github.com/JnatasSilva09/Biblioteca) | Projeto de sistema de biblioteca. | Consulte o repositório |
+| [Sistema Bancário](https://github.com/JnatasSilva09/sistema-bancario-c) | Simulação de operações bancárias no terminal. | C |
+| [Calculadora](https://github.com/JnatasSilva09/calculadora-c) | Calculadora simples para praticar fundamentos de programação. | C |
 
 ---
 
-## `06 // DEVELOPMENT PROTOCOL`
+## 📖 Atualmente estudando
+
+- Fundamentos de programação e algoritmos.
+- Lógica computacional e resolução de problemas.
+- Programação em C e C#.
+- Orientação a objetos.
+- Ecossistema .NET.
+- Estruturas de dados.
+- Banco de dados e persistência de informações.
+- Redes de computadores e sistemas operacionais.
+- Engenharia e análise de sistemas.
+
+Meu objetivo é consolidar os fundamentos e aplicá-los em projetos cada vez mais organizados e completos.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│       JARVIS DEVELOPMENT CORE       │
-│                                     │
-│       [01] LEARN                    │
-│          ↓                          │
-│       [02] CODE                     │
-│          ↓                          │
-│       [03] TEST                     │
-│          ↓                          │
-│       [04] DEBUG                    │
-│          ↓                          │
-│       [05] IMPROVE                  │
-│          ↓                          │
-│       [06] REPEAT                   │
-│                                     │
-└─────────────────────────────────────┘
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JnatasSilva09&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnatasSilva09&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais presentes nos repositórios" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JnatasSilva09&theme=tokyonight&hide_border=true&locale=pt_BR)](https://github.com/JnatasSilva09)
 
 </div>
 
+<sub>Os cartões são gerados por serviços externos e podem apresentar indisponibilidade. A distribuição de linguagens representa os repositórios analisados, não necessariamente o nível de domínio de cada tecnologia.</sub>
+
 ---
 
-## `07 // MY PHILOSOPHY`
+## 🎯 Objetivos
+
+- [x] Iniciar a graduação em Ciência da Computação.
+- [x] Criar projetos para praticar programação.
+- [x] Começar a utilizar Git e GitHub.
+- [ ] Consolidar os fundamentos de programação.
+- [ ] Evoluir na arquitetura e organização dos sistemas.
+- [ ] Aprimorar aplicações em C# e .NET.
+- [ ] Aprofundar conhecimentos em bancos de dados.
+- [ ] Desenvolver aplicações com APIs.
+- [ ] Melhorar a documentação e os testes dos projetos.
+
+*Lista atualizável conforme minha evolução acadêmica e técnica.*
+
+---
+
+## 💡 Filosofia de desenvolvimento
 
 <div align="center">
 
-### `LOGIC > SYNTAX`
+### `LÓGICA > SINTAXE`
 
-### `CURIOSITY > COMFORT`
+### `PRÁTICA > TEORIA ISOLADA`
 
-### `PROGRESS > PERFECTION`
+### `CONSISTÊNCIA > PRESSA`
 
-### `CONSISTENCY > MOTIVATION`
-
-<br>
-
-> **"Não estou tentando saber tudo.**
->
-> **Estou tentando aprender algo novo todos os dias."**
+### `EVOLUÇÃO > PERFEIÇÃO`
 
 </div>
 
----
+Acredito que desenvolver software é um processo contínuo de aprendizado: compreender o problema, construir uma solução, testar, identificar falhas e melhorar.
 
-## `08 // SYSTEM STATUS`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  SYSTEM              ONLINE                                  ║
-║  LEARNING            ACTIVE                                  ║
-║  PROJECTS            BUILDING                                ║
-║  CURIOSITY           100%                                    ║
-║  COFFEE              REQUIRED ☕                             ║
-║  MOTIVATION          ████████████████████ 100%               ║
-║                                                              ║
-║  > READY FOR NEXT CHALLENGE                                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Cada projeto representa uma oportunidade de transformar conhecimento em experiência prática.
 
 ---
 
-## `09 // CONNECT`
+## 📬 Contato
 
 <div align="center">
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-JnatasSilva09-18181B?style=for-the-badge&logo=github)](https://github.com/JnatasSilva09)
 
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonatas-coutinho-dev/)
 
-`🇧🇷 Brazil` · `🎓 Computer Science` · `💻 Developer in Progress`
+<br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,50:102A43,100:07111F&height=110&section=footer" width="100%" alt="Rodapé do perfil" />
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,50:071B2E,100:050B14&height=120&section=footer"/>
-
-### `> CONTINUE LEARNING. CONTINUE BUILDING.`
-
-**SYSTEM STATUS: ONLINE ●**
+**CONTINUE APRENDENDO. CONTINUE CONSTRUINDO.**
 
 </div>
