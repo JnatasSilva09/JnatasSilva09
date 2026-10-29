@@ -2,226 +2,352 @@
 
 # `> SYSTEM ONLINE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071B2E,100:6C2BD9&height=180&section=header&text=JÔNATAS%20SILVA&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=COMPUTER%20SCIENCE%20%7C%20CYBERSECURITY%20%7C%20DEV&descAlignY=60&descSize=15&descColor=B56CFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071B2E,100:6C2BD9&height=180&section=header&text=JÔNATAS%20SILVA&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=COMPUTER%20SCIENCE%20STUDENT&descAlignY=60&descSize=16&descColor=B56CFF"/>
 
 ### `◈ INITIALIZING PROFILE...`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   USER ............. JÔNATAS SILVA                           ║
-║   ROLE ............. CS STUDENT & CYBERSECURITY ENTHUSIAST   ║
-║   STATUS ........... LEARNING & BUILDING LABS                ║
-║   SYSTEM ........... ONLINE                                  ║
-║   LOCATION ......... BRAZIL 🇧🇷                               ║
-║                                                              ║
-║   > Building strong core in CS & Software Engineering        ║
-║   > Practicing Offensive & Defensive Security                ║
-║   > Building projects with C#, Python & Security Tools       ║
-║                                                              ║
+║                                                              ║
+║   USER ............. JÔNATAS SILVA                          ║
+║   ROLE ............. COMPUTER SCIENCE STUDENT               ║
+║   STATUS ........... LEARNING                               ║
+║   SYSTEM ........... ONLINE                                 ║
+║   LOCATION ......... BRAZIL 🇧🇷                              ║
+║                                                              ║
+║   > Building knowledge                                      ║
+║   > Building projects                                       ║
+║   > Building the future                                     ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
 
-"Lógica é o começo. Código é a evolução. Segurança é o futuro."
-01 // SOBRE MIM
-👋 Olá! Eu sou Jônatas Silva.
+### `"Lógica é o começo. Código é a evolução."`
 
-🎓 Estudante de Ciência da Computação
+</div>
 
-💻 Desenvolvendo minha base em programação, C# (.NET), C e Python
+---
 
-🛡️ Interessado em Cibersegurança, Redes e Sistemas Linux
+## `01 // SOBRE MIM`
 
-🚀 Aprendendo através da prática, laboratórios hands-on e construção de projetos
+> 👋 Olá! Eu sou **Jônatas Silva**.
 
-Estou focado em construir uma base sólida em programação, arquitetura de sistemas e segurança da informação.
+🎓 Estudante de **Ciência da Computação**
+💻 Desenvolvendo minha base em programação
+🧠 Interessado em lógica, algoritmos e tecnologia
+🚀 Aprendendo através da prática e construção de projetos
 
-LEARN → BUILD → DEBUG → HARDEN → IMPROVE → REPEAT
+Estou no início da minha jornada na tecnologia e atualmente estou focado em construir uma base sólida em **programação, lógica e resolução de problemas**.
 
-02 // TECH STACK
-PROGRAMMING & DEV
-C · C# · .NET · Python · SQL
+Meu objetivo é transformar cada conhecimento adquirido em algo que possa ser colocado em prática.
 
-TOOLS & SECURITY
-Git · GitHub · VS Code · Visual Studio · Linux · Docker · WSL2
+```text
+LEARN → BUILD → DEBUG → IMPROVE → REPEAT
+```
 
-03 // CURRENTLY LEARNING
+---
 
-C                    ████████████████████░░░░   FUNDAMENTOS
-LÓGICA & ALGORITMOS  ██████████████████░░░░░░   PRÁTICA
-C# & .NET            █████████████████░░░░░░░   ESTUDANDO
-REDES & LINUX        ████████████████░░░░░░░░   CIBERSEGURANÇA
-TRYHACKME (LABS)     ██████████████░░░░░░░░░░   PRÁTICA
-ESTRUTURAS DE DADOS  ████████████░░░░░░░░░░░░   PRÓXIMO
-BANCO DE DADOS       ███████░░░░░░░░░░░░░░░░░   FUTURO
+## `02 // TECH STACK`
 
-SYSTEM STATUS: CONSTANTLY LEARNING & HARDENING
+### `PROGRAMMING`
 
-04 // FEATURED PROJECTS
-📦 Controle de Estoque Desktop
-Aplicação desktop de controle de estoque desenvolvida em C#.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs" />
+</p>
 
-Praticando:
+<div align="center">
 
-C# e .NET WinForms
+`C` · `C#` · `VISUALG`
 
-Entity Framework Core & SQLite
+</div>
 
-Autenticação e permissões
+### `TOOLS`
 
-Organização e arquitetura de código
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
-C# .NET SQL
+<div align="center">
 
-🛡️ Network & Security Labs
-Práticas de redes, análise de tráfego e scripts em Python.
+`Git` · `GitHub` · `VS Code` · `Visual Studio`
 
-Praticando:
+</div>
 
-Captura de pacotes (Wireshark)
+---
 
-Scripts de automação em Python
+## `03 // CURRENTLY LEARNING`
 
-Resolução de laboratórios no TryHackMe
+```text
+C                   ████████████████████░░░░   FUNDAMENTOS
+LÓGICA              ██████████████████░░░░░░   PRÁTICA
+ALGORITMOS          █████████████████░░░░░░░   PRÁTICA
+C#                  ██████████████░░░░░░░░░░   ESTUDANDO
+ESTRUTURAS DE DADOS ████████████░░░░░░░░░░░░   PRÓXIMO
+.NET                ██████████░░░░░░░░░░░░░░   PRÓXIMO
+BANCO DE DADOS      ███████░░░░░░░░░░░░░░░░░   FUTURO
+```
 
-Fundamentos de Linux
+> `SYSTEM STATUS: CONSTANTLY LEARNING`
 
-PYTHON LINUX NETWORKS
+---
 
-🎮 Pedra, Papel e Tesoura
+## `04 // FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Pedra, Papel e Tesoura
+
 Meu primeiro projeto de jogo em C.
 
-Praticando:
+**Praticando:**
 
-Variáveis e Condicionais
+- Variáveis
+- Condicionais
+- Entrada e saída
+- Lógica de programação
 
-Entrada e saída
+`C`
 
-Lógica de programação
+</td>
 
-C
+<td width="50%">
 
-🗳️ Sistema de Votação
+### 🗳️ Sistema de Votação
+
 Sistema de enquete desenvolvido para praticar:
 
-Vetores e Repetição
+- Vetores
+- Repetição
+- Validação de dados
+- Cálculo de percentuais
 
-Validação de dados
+`C`
 
-Cálculo de percentuais
+</td>
+</tr>
 
-C
+<tr>
+<td width="50%">
 
-🧮 Calculadora & Exercícios
-Coleção de exercícios e projetos básicos de lógica.
+### 🧮 Calculadora
 
-Praticando:
+Projeto desenvolvido para praticar:
 
-Algoritmos e Fluxogramas
+- Operadores
+- Variáveis
+- Entrada de dados
+- Estruturas condicionais
 
-Estruturas de controle em C
+`C`
 
-Visualg
+</td>
 
-C VISUALG
+<td width="50%">
 
-🚀 Próximos Projetos
-NEW PROJECT DETECTED
+### 🧠 Exercícios de Lógica
+
+Coleção de exercícios realizados durante os estudos.
+
+**Conteúdos:**
+
+- Algoritmos
+- Lógica
+- Fluxogramas
+- Visualg
+
+`C` `VISUALG`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔷 Projetos C#
+
+Primeiros projetos utilizando C#.
+
+**Estudando:**
+
+- C#
+- .NET
+- Estruturas de programação
+- Organização de código
+
+`C#` `.NET`
+
+</td>
+
+<td width="50%">
+
+### 🚀 Próximos Projetos
+
+> `NEW PROJECT DETECTED`
+
+```text
 ████████████░░░░░░░░
-      BUILDING...
+      BUILDING...
+```
 
 Novos projetos serão adicionados conforme minha evolução.
 
-05 // ROADMAP
-2026
+</td>
+</tr>
+</table>
 
+---
+
+## `05 // ROADMAP`
+
+### `2026`
+
+```text
 [x] Iniciar Ciência da Computação
 [x] Aprender fundamentos de programação
-[x] Começar com C e C#
-[x] Praticar lógica de programação e criar primeiros projetos
+[x] Começar com C
+[x] Praticar lógica de programação
+[x] Criar primeiros projetos
 [x] Começar com Git e GitHub
 
-[ ] Evoluir em C# e .NET (Projetos Desktop & APIs)
-[ ] Aprofundar em Cibersegurança, Redes e Linux
-[ ] Praticar segurança ofensiva/defensiva no TryHackMe
-[ ] Estruturas de dados e Banco de dados
+[ ] Evoluir em C#
+[ ] Aprender .NET
+[ ] Estruturas de dados
+[ ] Banco de dados
+[ ] APIs
+[ ] Projetos maiores
+```
 
-LONG TERM
+### `LONG TERM`
 
-┌──────────────┐
-              │    C / C#    │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │  ALGORITMOS  │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ NETWORKING & │
-              │  LINUX CORE  │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │  .NET & DEV  │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ CYBERSECURITY│
-              │   (DEF/OFF)  │
-              └──────┬───────┘
-                     ↓
-                     🚀
+```text
+             ┌──────────────┐
+             │    C / C#    │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │  ALGORITMOS  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   DATA       │
+             │  STRUCTURES  │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │     .NET     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │  DATABASES   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │     APIs     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   SOFTWARE   │
+             │ DEVELOPMENT  │
+             └──────┬───────┘
+                    ↓
+                   🚀
+```
 
-06 // DEVELOPMENT PROTOCOL
+---
 
+## `06 // DEVELOPMENT PROTOCOL`
+
+<div align="center">
+
+```text
 ┌─────────────────────────────────────┐
-│                                     │
-│       JARVIS DEVELOPMENT CORE       │
-│                                     │
-│       [01] LEARN                    │
-│          ↓                          │
-│       [02] CODE                     │
-│          ↓                          │
-│       [03] TEST                     │
-│          ↓                          │
-│       [04] DEBUG                    │
-│          ↓                          │
-│       [05] HARDEN / IMPROVE         │
-│          ↓                          │
-│       [06] REPEAT                   │
-│                                     │
+│                                     │
+│       JARVIS DEVELOPMENT CORE       │
+│                                     │
+│       [01] LEARN                    │
+│          ↓                          │
+│       [02] CODE                     │
+│          ↓                          │
+│       [03] TEST                     │
+│          ↓                          │
+│       [04] DEBUG                    │
+│          ↓                          │
+│       [05] IMPROVE                  │
+│          ↓                          │
+│       [06] REPEAT                   │
+│                                     │
 └─────────────────────────────────────┘
+```
 
-07 // MY PHILOSOPHY
-LOGIC > SYNTAX
-CURIOSITY > COMFORT
-PROGRESS > PERFECTION
-CONSISTENCY > MOTIVATION
-"Não estou tentando saber tudo.
+</div>
 
-Estou tentando aprender algo novo todos os dias."
+---
 
-08 // SYSTEM STATUS
+## `07 // MY PHILOSOPHY`
 
+<div align="center">
+
+### `LOGIC > SYNTAX`
+
+### `CURIOSITY > COMFORT`
+
+### `PROGRESS > PERFECTION`
+
+### `CONSISTENCY > MOTIVATION`
+
+<br>
+
+> **"Não estou tentando saber tudo.**
+>
+> **Estou tentando aprender algo novo todos os dias."**
+
+</div>
+
+---
+
+## `08 // SYSTEM STATUS`
+
+```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  SYSTEM             ONLINE                                   ║
-║  LEARNING           ACTIVE                                   ║
-║  PROJECTS           BUILDING                                 ║
-║  CURIOSITY          100%                                     ║
-║  COFFEE             REQUIRED ☕                              ║
-║  MOTIVATION         ████████████████████ 100%                ║
-║                                                              ║
-║  > READY FOR NEXT CHALLENGE                                  ║
-║                                                              ║
+║                                                              ║
+║  SYSTEM              ONLINE                                  ║
+║  LEARNING            ACTIVE                                  ║
+║  PROJECTS            BUILDING                                ║
+║  CURIOSITY           100%                                    ║
+║  COFFEE              REQUIRED ☕                             ║
+║  MOTIVATION          ████████████████████ 100%               ║
+║                                                              ║
+║  > READY FOR NEXT CHALLENGE                                  ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
 
-09 // CONNECT
+---
 
+## `09 // CONNECT`
 
-🇧🇷 Brazil · 🎓 Computer Science · 💻 Developer & Cyber Student
+<div align="center">
 
-> CONTINUE LEARNING. CONTINUE BUILDING.
-SYSTEM STATUS: ONLINE ●
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=00F0FF"/>
+</a>
 
+<br><br>
 
+`🇧🇷 Brazil` · `🎓 Computer Science` · `💻 Developer in Progress`
 
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,50:071B2E,100:050B14&height=120&section=footer"/>
+
+### `> CONTINUE LEARNING. CONTINUE BUILDING.`
+
+**SYSTEM STATUS: ONLINE ●**
+
+</div>
